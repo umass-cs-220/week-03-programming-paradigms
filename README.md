@@ -27,19 +27,10 @@
 * [Factory Method Pattern][factory-method-pattern]
 * [Learning Scala in Small Bites](might-scala)
 
-[repl]: http://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop
-[dudler]: http://rogerdudler.github.io/git-guide
-[dudler-cheat]: http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf
-[gitscm]: http://git-scm.com/book/en/v2/Getting-Started-Git-Basics
-[daityari]: http://www.sitepoint.com/git-for-beginners
-[pg1]: http://paulgraham.com/avg.html
-[pg2]: http://paulgraham.com/popular.html
-[might]: http://matt.might.net/articles/basic-unix
-[shaw]: http://cli.learncodethehardway.org/book
-[gruber]: http://daringfireball.net/projects/markdown/syntax
-[website]: {{ site.url }}/
-[scala-test]: http://www.scalatest.org
-[fun-spec]: http://www.scalatest.org/getting_started_with_fun_spec
+**Resources**
+
+* [Scala API][scala-api]
+
 [pogp]: http://www.artima.com/weblogs/viewpost.jsp?thread=331531
 [scala-api]: http://www.scala-lang.org/api/current/?_ga=1.165489215.1260411246.1422556953#package
 [singleton-pattern]: http://en.wikipedia.org/wiki/Singleton_pattern
